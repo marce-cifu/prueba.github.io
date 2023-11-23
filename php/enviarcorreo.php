@@ -166,7 +166,7 @@ $e_asunto= 'Mensaje de Contacto';
 
 
 // Aca subo la imagen a mi servidor (Sera enviada como adjunto) 
-$archivo = 'https://marce-cifu.github.io/prueba.github.io/img'.$nuevonombreimagen;
+//$archivo = 'https://marce-cifu.github.io/prueba.github.io/img'.$nuevonombreimagen;
 
 // Preparamos el encabezado del correo 
 $e_bodya = "Nombres y Apellidos: $nya" . PHP_EOL . PHP_EOL;
